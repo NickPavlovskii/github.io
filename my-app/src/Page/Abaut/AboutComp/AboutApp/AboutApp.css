@@ -1,0 +1,19 @@
+#About-app{
+    text-align: center;
+    height: 550px;
+}
+
+
+.video video { 
+    width: 50%;
+    height: 100%;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.hr{
+    position: relative;
+    bottom: 25px;
+}
+
+
